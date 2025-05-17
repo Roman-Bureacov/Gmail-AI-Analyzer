@@ -25,3 +25,4 @@ dist-ssr
 
 # Environment
 test/env.JSON
+/test/env.JSON
