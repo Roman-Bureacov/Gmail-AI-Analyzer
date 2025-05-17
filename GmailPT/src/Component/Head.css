@@ -1,0 +1,21 @@
+h1 {
+    color: #0FFF50;
+    padding: 0;
+    border: 0;
+
+}
+
+
+
+.search input[type=text]{
+    margin: 20px auto;
+    width: 100%;
+    max-width: 150px;
+    height: 40px; 
+
+    float: right;
+
+
+    
+    
+}
