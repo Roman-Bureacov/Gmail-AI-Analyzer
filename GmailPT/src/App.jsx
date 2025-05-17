@@ -6,6 +6,11 @@ import './App.css'
 function App() {
   const [count, setCount] = useState(0)
 
+    const CLIENT_ID = import.meta.env.VITE_CLIENT_ID;
+    //const API_KEY = process.env.API;
+
+    console.log(CLIENT_ID);
+
   return (
     <>
       <div>
