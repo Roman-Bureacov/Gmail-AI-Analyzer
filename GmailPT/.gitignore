@@ -24,5 +24,4 @@ dist-ssr
 *.sw?
 
 # Environment
-test/env.JSON
-/test/env.JSON
+/src/test/env.JSON
